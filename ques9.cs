@@ -9,9 +9,9 @@ namespace ConsoleApp9
     internal class Program
     {
         protected void dream() {
-            Console.WriteLine(" hey god (shree radhey krishna):: please help me to complete my dreams ");
-            Console.WriteLine("i want to open a school");
-            Console.WriteLine(" i want to buy  a car which name is THAR :");
+            Console.WriteLine("  ");
+            Console.WriteLine("");
+            Console.WriteLine("");
         }
     }
     class dreams:Program
